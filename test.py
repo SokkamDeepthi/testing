@@ -1,5 +1,0 @@
-print("Hello")
-print("Hello Ashok")
-print("complete it")
-print("Deepthi")
-print("Sokkam Deethi")
